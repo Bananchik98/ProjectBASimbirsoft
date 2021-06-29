@@ -1,0 +1,15 @@
+C:\Users\babad\Desktop\Project B.A. Simbirsoft\bin\Debug\netcoreapp3.1\Project B.A. Simbirsoft.exe
+C:\Users\babad\Desktop\Project B.A. Simbirsoft\bin\Debug\netcoreapp3.1\Project B.A. Simbirsoft.deps.json
+C:\Users\babad\Desktop\Project B.A. Simbirsoft\bin\Debug\netcoreapp3.1\Project B.A. Simbirsoft.runtimeconfig.json
+C:\Users\babad\Desktop\Project B.A. Simbirsoft\bin\Debug\netcoreapp3.1\Project B.A. Simbirsoft.runtimeconfig.dev.json
+C:\Users\babad\Desktop\Project B.A. Simbirsoft\bin\Debug\netcoreapp3.1\Project B.A. Simbirsoft.dll
+C:\Users\babad\Desktop\Project B.A. Simbirsoft\bin\Debug\netcoreapp3.1\Project B.A. Simbirsoft.pdb
+C:\Users\babad\Desktop\Project B.A. Simbirsoft\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+C:\Users\babad\Desktop\Project B.A. Simbirsoft\obj\Debug\netcoreapp3.1\Project B.A. Simbirsoft.AssemblyInfoInputs.cache
+C:\Users\babad\Desktop\Project B.A. Simbirsoft\obj\Debug\netcoreapp3.1\Project B.A. Simbirsoft.AssemblyInfo.cs
+C:\Users\babad\Desktop\Project B.A. Simbirsoft\obj\Debug\netcoreapp3.1\Project B.A. Simbirsoft.csproj.CoreCompileInputs.cache
+C:\Users\babad\Desktop\Project B.A. Simbirsoft\obj\Debug\netcoreapp3.1\Project B.A. Simbirsoft.csproj.CopyComplete
+C:\Users\babad\Desktop\Project B.A. Simbirsoft\obj\Debug\netcoreapp3.1\Project B.A. Simbirsoft.dll
+C:\Users\babad\Desktop\Project B.A. Simbirsoft\obj\Debug\netcoreapp3.1\Project B.A. Simbirsoft.pdb
+C:\Users\babad\Desktop\Project B.A. Simbirsoft\obj\Debug\netcoreapp3.1\Project B.A. Simbirsoft.genruntimeconfig.cache
+C:\Users\babad\Desktop\Project B.A. Simbirsoft\obj\Debug\netcoreapp3.1\Project B.A. Simbirsoft.csproj.AssemblyReference.cache
